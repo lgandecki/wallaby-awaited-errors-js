@@ -1,0 +1,24 @@
+{
+  "name": "wallaby-awaited-errors-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgandecki/wallaby-awaited-errors-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgandecki/wallaby-awaited-errors-js/issues"
+  },
+  "homepage": "https://github.com/lgandecki/wallaby-awaited-errors-js#readme",
+  "dependencies": {},
+  "description": ""
+}
